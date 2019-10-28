@@ -1,0 +1,50 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.lz</groupId>
+    <artifactId>meite-shop-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>meite-shop-service-api-impl</artifactId>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>meite-shop-service-api-weixin-impl</module>
+  	<module>meite-shop-service-api-member-impl</module>
+  	<module>meite-shop-service-api-sso-impl</module>
+  	<module>meite-shop-service-api-tem-impl</module>
+  	<module>meite-shop-service-api-search-impl</module>
+  	<module>meite-shop-service-api-pay-impl</module>
+  	<module>meite-shop-service-api-order-impl</module>
+  	<module>meite-shop-service-api-spike-impl</module>
+  </modules>
+
+    <dependencies>
+        <!-- springcloud feign组件 -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </dependency>
+        <!-- springboot 整合阿波罗 -->
+        <dependency>
+            <groupId>com.ctrip.framework.apollo</groupId>
+            <artifactId>apollo-client</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.ctrip.framework.apollo</groupId>
+            <artifactId>apollo-core</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.lz</groupId>
+            <artifactId>meite-shop-common-core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+        </dependency>
+
+
+    </dependencies>
+</project>

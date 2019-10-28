@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="312f5201-479a-4d7b-ae61-49faab764787" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-basics/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-common/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-search-impl/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-cms/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-spike/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-apollo-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-tem-impl/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-order-impl/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-spike-impl/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-sso/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-codingapi-lcn/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-search/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-xuxueli-xxljob/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-pay/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-pay-impl/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-item/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-portal/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-order/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-spike/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-sso-impl/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-codingapi-zipkin/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-sso/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-member-impl/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-search/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api-impl/target/" />
+    <ignored path="F:/IDEA project Mess/weixin-java-mp-demo-springboot-master/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-api-entitys/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-api-entitys/meite-shop-api-weixin-entity/target/" />
+    <ignored path="F:/IDEA project Mess/spring-data2/target/" />
+    <ignored path="F:/IDEA project Mess/meite_template/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/IDEA project Mess/meite_template/src/main/java/com/mayikt/template/impl/UnionPayCallbackTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/IDEA project Mess/meite_template/src/main/java/com/mayikt/template/impl/AliPayCallbackTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="17" column="71" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://F:/IDEA project Mess/meite_template/src/main/java/com/mayikt/template/AbstractPayCallbackTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="F:/IDEA project Mess/weixin-java-mp-demo-springboot-master/src/main/java/com/github/binarywang/demo/wx/mp/handler/MsgHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/com/lz/weixin/mp/error/ErrorController.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/com/lz/weixin/mp/handler/MsgHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/error/ErrorPageConfiguration.java" />
+        <option value="F:/IDEA project Mess/weixin-java-mp-demo-springboot-master/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/SubscribeHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/LogHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/LocationHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/controller/WxMenuController.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/controller/WxPortalController.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/controller/WxRedirectController.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/config/WxMpConfiguration.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/config/WxMpProperties.java" />
+        <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/lz/core/utils/RegexUtils.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/MsgHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/MsgHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/builder/TextBuilder.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/error/ErrorController.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/handler/LocationHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/config/WxMpConfiguration.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/config/WxMpProperties.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/controller/WxMenuController.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/controller/WxPortalController.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/controller/WxRedirectController.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/handler/LogHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/handler/SubscribeHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/lz/core/utils/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/lz/core/constants/Constants.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/handler/MsgHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/lz/core/base/BaseResponse.java" />
+        <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/lz/core/base/BaseApiService.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/StoreCheckNotifyHandler.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/com/lz/weixin/sevice/WeixinAppservice.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/WeiXinAppServiceImpl.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/com/lz/weixin/sevice/VerificaCodeService.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/VerificaCodeServiceImpl.java" />
+        <option value="F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/entity/UserEntity.java" />
+        <option value="F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/dao/UserDao.java" />
+        <option value="F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/controller/EsController.java" />
+        <option value="F:/IDEA project Mess/spring-data2/pom.xml" />
+        <option value="F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/entity/CloudDiskEntity.java" />
+        <option value="F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/dao/CloudDiskDao.java" />
+        <option value="F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/controller/CloudDiskController.java" />
+        <option value="F:/IDEA project Mess/spring-data2/src/main/resources/application.yml" />
+        <option value="F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/SpringData2Application.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/Java/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="G:\Java\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="226" />
+    <option name="y" value="37" />
+    <option name="width" value="1527" />
+    <option name="height" value="1019" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite_template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite_template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite_template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite_template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite_template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite_template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite_template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite_template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meite_template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565277431841" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/IDEA project Mess/meite_template/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lz.weixin.service.impl.mp.handler" />
+      <recent name="com.lz.weixin.service.impl" />
+      <recent name="com.lz.wei.entity" />
+      <recent name="com.lz" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\eclipseMess\meite-shop-parent\meite-shop-service-api-impl\meite-shop-service-api-weixin-impl\src\main\java\com\lz\mp" />
+      <recent name="G:\eclipseMess\meite-shop-parent\meite-shop-service-api-impl\meite-shop-service-api-weixin-impl\src\main\java\com\lz\weixin\service\impl" />
+      <recent name="G:\eclipseMess\meite-shop-parent\meite-shop-service-api-impl\meite-shop-service-api-weixin-impl\src\main\java\com\lz" />
+      <recent name="G:\eclipseMess\meite-shop-parent\meite-shop-service-api\meite-shop-service-api-weixin\src\main\java\com\lz\weixin" />
+      <recent name="G:\eclipseMess\meite-shop-parent\meite-shop-basics\meite-shop-basics-springcloud-zuul\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringData2Application">
+    <configuration name="AppEureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="meite-shop-basics-springcloud-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lz.weixin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lz.weixin.AppEureka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppGateWay" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="meite-shop-basics-springcloud-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lz.zuul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lz.zuul.AppGateWay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppMemberImpl" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="meite-shop-service-api-member-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lz.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lz.member.AppMemberImpl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppWeiXinImpl" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="meite-shop-service-api-weixin-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lz.AppWeiXinImpl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringData2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-data2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lz.springdata2.SpringData2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WxMpDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="weixin-java-mp-demo-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.binarywang.demo.wx.mp.WxMpDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AppWeiXinImpl" />
+        <item itemvalue="Spring Boot.AppGateWay" />
+        <item itemvalue="Spring Boot.AppMemberImpl" />
+        <item itemvalue="Spring Boot.AppEureka" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="312f5201-479a-4d7b-ae61-49faab764787" name="Default Changelist" comment="" />
+      <created>1560397814158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560397814158</updated>
+      <workItem from="1560397816536" duration="22000" />
+      <workItem from="1560407988540" duration="4981000" />
+      <workItem from="1560414873406" duration="1219000" />
+      <workItem from="1560416107004" duration="6116000" />
+      <workItem from="1560479135947" duration="5214000" />
+      <workItem from="1560736379209" duration="2063000" />
+      <workItem from="1560827337413" duration="603000" />
+      <workItem from="1560994815505" duration="3107000" />
+      <workItem from="1561081848132" duration="3246000" />
+      <workItem from="1561363760161" duration="6304000" />
+      <workItem from="1561379659330" duration="510000" />
+      <workItem from="1561380186647" duration="9966000" />
+      <workItem from="1561465951304" duration="1203000" />
+      <workItem from="1561640329221" duration="608000" />
+      <workItem from="1561707281071" duration="3198000" />
+      <workItem from="1562067724136" duration="599000" />
+      <workItem from="1562122805410" duration="1859000" />
+      <workItem from="1562242955450" duration="1201000" />
+      <workItem from="1562312286601" duration="1198000" />
+      <workItem from="1565104811141" duration="791000" />
+      <workItem from="1565273386945" duration="734000" />
+      <workItem from="1566821848489" duration="1173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55915000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.22228146" />
+      <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.20362474" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3618635" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" visible="true" weight="0.30769232" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32889125" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.21162046" />
+      <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.20362474" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3626883" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" visible="true" weight="0.30769232" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32910448" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://F:/IDEA project Mess/weixin-java-mp-demo-springboot-master/src/main/java/com/github/binarywang/demo/wx/mp/controller/WxPortalController.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/handler/MsgHandler.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/controller/WxPortalController.java" />
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/controller/WxRedirectController.java" />
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/handler/LogHandler.java" />
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/handler/SubscribeHandler.java" />
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/config/WxMpConfiguration.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-mp/3.3.0/weixin-java-mp-3.3.0-sources.jar!/me/chanjar/weixin/mp/bean/message/WxMpXmlMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="651" column="33" lean-forward="true" selection-start-line="651" selection-start-column="33" selection-end-line="651" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-common/3.3.0/weixin-java-common-3.3.0-sources.jar!/me/chanjar/weixin/common/util/xml/XStreamInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/lz/core/utils/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/lz/core/constants/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/mp/handler/MsgHandler.java" />
+    <entry file="file://F:/IDEA project Mess/weixin-java-mp-demo-springboot-master/src/main/resources/templates/greet_user.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/IDEA project Mess/weixin-java-mp-demo-springboot-master/src/main/resources/templates/error.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/IDEA project Mess/weixin-java-mp-demo-springboot-master/src/main/resources/META-INF/additional-spring-configuration-metadata.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/IDEA project Mess/weixin-java-mp-demo-springboot-master/src/main/java/com/github/binarywang/demo/wx/mp/WxMpDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/utils/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/ScanHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/UnsubscribeHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/LocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/NullHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/AbstractHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/controller/WxRedirectController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/StoreCheckNotifyHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/builder/AbstractBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/controller/WxPortalController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/lz/core/base/BaseApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/lz/core/base/BaseResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/com/lz/weixin/sevice/WeixinAppservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="34" selection-start-line="34" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/WeiXinAppServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/mp/handler/MsgHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/com/lz/weixin/sevice/VerificaCodeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl/src/main/java/com/lz/weixin/service/impl/VerificaCodeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.9.RELEASE/spring-data-commons-2.1.9.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/spring-data2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/entity/CloudDiskEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/dao/CloudDiskDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/3.1.9.RELEASE/spring-data-elasticsearch-3.1.9.RELEASE-sources.jar!/org/springframework/data/elasticsearch/repository/ElasticsearchRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/spring-data2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/entity/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/controller/EsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/controller/CloudDiskController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/spring-data2/src/main/java/com/lz/springdata2/SpringData2Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/meite_template/src/main/java/com/mayikt/template/impl/UnionPayCallbackTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" column="55" lean-forward="true" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/meite_template/src/main/java/com/mayikt/template/impl/AliPayCallbackTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/IDEA project Mess/meite_template/src/main/java/com/mayikt/template/AbstractPayCallbackTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>meite-shop-service-api-impl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3873563" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

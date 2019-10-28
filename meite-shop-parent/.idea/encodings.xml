@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://F:/IDEA project Mess/meite_template" charset="UTF-8" />
+    <file url="file://F:/IDEA project Mess/spring-data2" charset="UTF-8" />
+    <file url="file://F:/IDEA project Mess/weixin-java-mp-demo-springboot-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-api-entitys" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-api-entitys/meite-shop-api-weixin-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-apollo-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-codingapi-lcn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-codingapi-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-xuxueli-xxljob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-spike" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-member-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-order-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-pay-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-search-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-spike-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-sso-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-tem-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api-impl/meite-shop-service-api-weixin-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-spike" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin" charset="UTF-8" />
+  </component>
+</project>

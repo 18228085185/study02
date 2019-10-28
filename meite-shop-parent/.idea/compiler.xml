@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mayikt_template" />
+        <module name="meite-shop-api-weixin-entity" />
+        <module name="meite-shop-basics-apollo-config-server" />
+        <module name="meite-shop-basics-codingapi-lcn" />
+        <module name="meite-shop-basics-codingapi-zipkin" />
+        <module name="meite-shop-basics-springcloud-eureka" />
+        <module name="meite-shop-basics-springcloud-zuul" />
+        <module name="meite-shop-basics-xuxueli-xxljob" />
+        <module name="meite-shop-common-core" />
+        <module name="meite-shop-portal-cms" />
+        <module name="meite-shop-portal-search" />
+        <module name="meite-shop-portal-spike" />
+        <module name="meite-shop-portal-sso" />
+        <module name="meite-shop-portal-web" />
+        <module name="meite-shop-service-api-item" />
+        <module name="meite-shop-service-api-member" />
+        <module name="meite-shop-service-api-member-impl" />
+        <module name="meite-shop-service-api-order" />
+        <module name="meite-shop-service-api-order-impl" />
+        <module name="meite-shop-service-api-pay" />
+        <module name="meite-shop-service-api-pay-impl" />
+        <module name="meite-shop-service-api-search" />
+        <module name="meite-shop-service-api-search-impl" />
+        <module name="meite-shop-service-api-spike" />
+        <module name="meite-shop-service-api-spike-impl" />
+        <module name="meite-shop-service-api-sso" />
+        <module name="meite-shop-service-api-sso-impl" />
+        <module name="meite-shop-service-api-tem-impl" />
+        <module name="meite-shop-service-api-weixin" />
+        <module name="meite-shop-service-api-weixin-impl" />
+        <module name="spring-data2" />
+        <module name="weixin-java-mp-demo-springboot" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mayikt_template" options="-parameters" />
+      <module name="meite-shop-api-weixin-entity" options="-parameters" />
+      <module name="meite-shop-basics-apollo-config-server" options="-parameters" />
+      <module name="meite-shop-basics-codingapi-lcn" options="-parameters" />
+      <module name="meite-shop-basics-codingapi-zipkin" options="-parameters" />
+      <module name="meite-shop-basics-springcloud-eureka" options="-parameters" />
+      <module name="meite-shop-basics-springcloud-zuul" options="-parameters" />
+      <module name="meite-shop-basics-xuxueli-xxljob" options="-parameters" />
+      <module name="meite-shop-common-core" options="-parameters" />
+      <module name="meite-shop-portal-cms" options="-parameters" />
+      <module name="meite-shop-portal-search" options="-parameters" />
+      <module name="meite-shop-portal-spike" options="-parameters" />
+      <module name="meite-shop-portal-sso" options="-parameters" />
+      <module name="meite-shop-portal-web" options="-parameters" />
+      <module name="meite-shop-service-api-item" options="-parameters" />
+      <module name="meite-shop-service-api-member" options="-parameters" />
+      <module name="meite-shop-service-api-member-impl" options="-parameters" />
+      <module name="meite-shop-service-api-order" options="-parameters" />
+      <module name="meite-shop-service-api-order-impl" options="-parameters" />
+      <module name="meite-shop-service-api-pay" options="-parameters" />
+      <module name="meite-shop-service-api-pay-impl" options="-parameters" />
+      <module name="meite-shop-service-api-search" options="-parameters" />
+      <module name="meite-shop-service-api-search-impl" options="-parameters" />
+      <module name="meite-shop-service-api-spike" options="-parameters" />
+      <module name="meite-shop-service-api-spike-impl" options="-parameters" />
+      <module name="meite-shop-service-api-sso" options="-parameters" />
+      <module name="meite-shop-service-api-sso-impl" options="-parameters" />
+      <module name="meite-shop-service-api-tem-impl" options="-parameters" />
+      <module name="meite-shop-service-api-weixin" options="-parameters" />
+      <module name="meite-shop-service-api-weixin-impl" options="-parameters" />
+      <module name="spring-data2" options="-parameters" />
+      <module name="weixin-java-mp-demo-springboot" options="-parameters" />
+    </option>
+  </component>
+</project>
