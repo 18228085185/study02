@@ -6,6 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>meite-shop-basics</module>
+	  <module>meite-shop-api-dto</module>
   	<module>meite-shop-service-api</module>
   	<module>meite-shop-service-api-impl</module>
   	<module>meite-shop-common</module>

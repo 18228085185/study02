@@ -3,7 +3,7 @@ Implementation-Title: meite-shop-portal-spike
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Administrator
 Implementation-Vendor-Id: com.lz
-Build-Jdk: 1.8.0_201
+Build-Jdk: 1.8.0_221
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/meite-shop-parent/meite-shop-portal/meite-shop-port
  al-spike

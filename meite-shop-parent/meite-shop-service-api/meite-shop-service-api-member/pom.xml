@@ -10,12 +10,12 @@
   <dependencies>
     <dependency>
       <groupId>com.lz</groupId>
-      <artifactId>meite-shop-api-weixin-entity</artifactId>
+      <artifactId>meite-shop-api-weixin-dto</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>com.lz</groupId>
-      <artifactId>meite-shop-api-member-entity</artifactId>
+      <artifactId>meite-shop-api-member-dto</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
   </dependencies>

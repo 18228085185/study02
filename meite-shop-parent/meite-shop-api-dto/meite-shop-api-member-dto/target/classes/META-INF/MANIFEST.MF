@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: meite-shop-api-member-dto
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.lz
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/meite-shop-parent/meite-shop-api-dto/meite-shop-api
+ -member-dto
+Created-By: Maven Integration for Eclipse
+
